@@ -13,3 +13,10 @@ p.important {
 img {
   width: 50%;
 }
+.important{
+  font-style: italic;
+  color: blue;
+}
+.unimportand{
+  color: yellow;
+}
