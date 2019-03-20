@@ -1,0 +1,15 @@
+p.important {
+  color: red;
+
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  font-family: cursive;
+  font-weight: bold;
+}
+img {
+  width: 50%;
+}
